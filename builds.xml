@@ -1,0 +1,12 @@
+<builds>
+<build>
+<name>KodiBox</name>
+<version>1.0</version>
+<kodi>K21.2</kodi>
+<size>202MB</size>
+<url>https://github.com/kodibox32/kodibox/releases/download/Kodibox/kodibox.zip</url>
+<icon>https://github.com/kodibox32/kodibox/blob/master/icon.png</icon>
+<fanart>https://github.com/kodibox32/kodibox/blob/master/fanart.jpg</fanart>
+<description>KodiBox Updated 30.11.2025</description>
+</build>
+<build>
