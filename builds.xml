@@ -1,7 +1,7 @@
 <builds>
 <build>
 <name>[COLOR dodgerblue]---- Kodibox Builds ----[/COLOR]</name>
-<kodi>K21.2</kodi>
+<kodi>K21</kodi>
 <url>http://</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
@@ -10,7 +10,7 @@
 <build>
 <name>KodiBox</name>
 <version>1.0</version>
-<kodi>K21.2</kodi>
+<kodi>K21</kodi>
 <size>202MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox/kodibox.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
@@ -18,4 +18,5 @@
 <description>Updated 30.11.2025</description>
 </build>
 </builds>
+
 
