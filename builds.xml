@@ -1,5 +1,13 @@
 <builds>
 <build>
+<name>[COLOR dodgerblue]---- 7o9's Basic Builds ----[/COLOR]</name>
+<kodi>K21</kodi>
+<url>http://</url>
+<icon>https://dr-venture.com/709/Artwork/709_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>All builds under 100MB. Includes only 3 Video Add-on's</description>
+</build>
+<build>
 <name>KodiBox</name>
 <version>1.0</version>
 <kodi>K21</kodi>
@@ -8,5 +16,323 @@
 <icon>https://dr-venture.com/709/Artwork/709Xlite_Lite_Icon.jpg</icon>
 <fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
 <description>A light build with an easy-to-navigate interface - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>Klix</name>
+<version>4.0</version>
+<kodi>K21</kodi>
+<size>82MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/Klix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Klix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light build focusing on streaming services - Debrid Only - Updated Nov 3-2025</description>
+</build>
+<build>
+<name>Nimble</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>69MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/Nimble.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Nimble_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light and quick Movie/TV build designed around the Nimbus skin - Debrid Only - Updated Oct 31-2025</description>
+</build>
+<build>
+<name>OneFlix</name>
+<version>2.8</version>
+<kodi>K21</kodi>
+<size>92MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/OneFlix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709OneFlix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed Netflix style streaming service build - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>NetKlix</name>
+<version>1.1</version>
+<kodi>K21</kodi>
+<size>69MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/NetKlix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709NetKlix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A Netflix clone - Debrid Only - Updated Nov 4-2025</description>
+</build>
+<build>
+<name>EstuaryFlix</name>
+<version>2.2</version>
+<kodi>K21</kodi>
+<size>80MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/Estuary_Flix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Flix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A simple Movie-TV build. No Bloat and a clean interface! - Debrid Only - Updated Nov 11-2025</description>
+</build>
+<build>
+<name>Estuary Plus</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>65MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/Estuary_Plus.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Plus_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light build designed around TMDb Helper using a modded version of Kodi's stock Estuary skin - Debrid Only - Trakt Required - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>Estuary Switch</name>
+<version>2.5</version>
+<kodi>K21</kodi>
+<size>59MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/Estuary_Switch.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Switch_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Kodi's Estuary skin with a twist! - Debrid Only - Updated Nov 7-2025</description>
+</build>
+<build>
+<name>[COLOR dodgerblue]---- 7o9's Minimal Builds ----[/COLOR]</name>
+<kodi>K21</kodi>
+<url>http://</url>
+<icon>https://dr-venture.com/709/Artwork/709_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>All builds under 100MB. Includes only 1 Video Add-on</description>
+</build>
+<build>
+<name>Arctic Rain</name>
+<version>2.1</version>
+<kodi>K21</kodi>
+<size>70MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/Arctic_Rain.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Arctic_Rain_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Umbrella addon - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>Estuary Light</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>27MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/Estuary_Light.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Light_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A minimal build designed around the Fen Light add-on - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>inFENity</name>
+<version>1.2</version>
+<kodi>K21</kodi>
+<size>29MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/inFENity.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709InFENity_Plus_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed minimal build that is designed around the Fen Light addon - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>FENura</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>75MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/FENura.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709FENura_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed Netflix style minimal build designed around the Fen Light addon. - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>FENello</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>41MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/FENello.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709FENello_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Fen Light addon. Fast and Light-weight - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>UMBrello</name>
+<version>1.2</version>
+<kodi>K21</kodi>
+<size>48MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/UMBrello.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709UMBrello_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Umbrella addon. Fast and Light-weight - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>POVico</name>
+<version>1.7</version>
+<kodi>K21</kodi>
+<size>7MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/POVico.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709POVico_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the POV (Fen Fork) addon. This is as fast and light-weight as it gets!- Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>FENico</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>10MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Omega/FENico.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709FENico_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Fen Light addon. Fast and light-weight - Debrid Only - Updated Oct 29-2025</description>
+</build>
+
+
+
+
+<build>
+<name>[COLOR dodgerblue]---- 7o9's Basic Builds ----[/COLOR]</name>
+<kodi>K22</kodi>
+<url>http://</url>
+<icon>https://dr-venture.com/709/Artwork/709_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>All builds under 100MB. Includes only 3 Video Add-on's</description>
+</build>
+<build>
+<name>Xlite</name>
+<version>7.3</version>
+<kodi>K22</kodi>
+<size>78MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/Xlite.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Xlite_Lite_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light build with an easy-to-navigate interface - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>Klix</name>
+<version>4.0</version>
+<kodi>K22</kodi>
+<size>82MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/Klix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Klix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light build focusing on streaming services - Debrid Only - Updated Nov 3-2025</description>
+</build>
+<build>
+<name>Nimble</name>
+<version>1.3</version>
+<kodi>K22</kodi>
+<size>69MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/Nimble.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Nimble_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light and quick Movie/TV build designed around the Nimbus skin - Debrid Only - Updated Oct 31-2025</description>
+</build>
+<build>
+<name>OneFlix</name>
+<version>2.8</version>
+<kodi>K22</kodi>
+<size>92MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/OneFlix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709OneFlix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed Netflix style streaming service build - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>NetKlix</name>
+<version>1.1</version>
+<kodi>K22</kodi>
+<size>69MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/NetKlix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709NetKlix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A Netflix clone - Debrid Only - Updated Nov 4-2025</description>
+</build>
+<build>
+<name>EstuaryFlix</name>
+<version>2.2</version>
+<kodi>K22</kodi>
+<size>80MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/Estuary_Flix.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Flix_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A simple Movie-TV build that is built for speed. No bloat with a clean interface! - Debrid Only - Updated Nov 11-2025</description>
+</build>
+<build>
+<name>Estuary Plus</name>
+<version>1.3</version>
+<kodi>K22</kodi>
+<size>65MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/Estuary_Plus.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Plus_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light build designed around TMDb Helper using a modded version of Kodi's stock Estuary skin. Includes a handful of top debrid add-ons. - Debrid Only - Trakt Required - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>Estuary Switch</name>
+<version>2.5</version>
+<kodi>K22</kodi>
+<size>59MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/Estuary_Switch.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Switch_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Kodi's Estuary skin with a twist! - Debrid Only - Updated Nov 7-2025</description>
+</build>
+<build>
+<name>[COLOR dodgerblue]---- 7o9's Minimal Builds ----[/COLOR]</name>
+<kodi>K22</kodi>
+<url>http://</url>
+<icon>https://dr-venture.com/709/Artwork/709_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>All builds under 100MB. Includes only 1 Video Add-on</description>
+</build>
+<build>
+<name>Arctic Rain</name>
+<version>2.1</version>
+<kodi>K22</kodi>
+<size>70MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/Arctic_Rain.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Arctic_Rain_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Umbrella addon - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>Estuary Light</name>
+<version>1.3</version>
+<kodi>K22</kodi>
+<size>27MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/Estuary_Light.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709Estuary_Light_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A minimal build designed around the Fen Light add-on with a Live TV section included- Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>inFENity</name>
+<version>1.2</version>
+<kodi>K22</kodi>
+<size>29MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/inFENity.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709InFENity_Plus_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed minimal build that is designed around the Fen Light addon - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>FENura</name>
+<version>1.3</version>
+<kodi>K22</kodi>
+<size>75MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/FENura.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709FENura_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A widget packed Netflix style minimal build designed around the Fen Light addon. - Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>POVico</name>
+<version>1.7</version>
+<kodi>K22</kodi>
+<size>7MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/POVico.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709POVico_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the POV (Fen Fork) addon. This is as fast and light-weight as it gets!- Debrid Only - Updated Oct 29-2025</description>
+</build>
+<build>
+<name>FENico</name>
+<version>1.3</version>
+<kodi>K22</kodi>
+<size>10MB</size>
+<url>https://dr-venture.com/709/TheBuilds/Piers/FENico.zip</url>
+<icon>https://dr-venture.com/709/Artwork/709FENico_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>Minimal build designed around the Fen Light addon. Fast and Super Light-weight - Debrid Only - Updated Oct 29-2025</description>
 </build>
 </builds>
