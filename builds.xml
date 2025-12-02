@@ -2,12 +2,11 @@
 <build>
 <name>KodiBox</name>
 <version>1.0</version>
-<kodi>K21.2</kodi>
-<size>202MB</size>
+<kodi>K21</kodi>
+<size>78MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox/kodibox.zip</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
-<fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Kodibox - Updated 30.11.2025</description>
+<icon>https://dr-venture.com/709/Artwork/709Xlite_Lite_Icon.jpg</icon>
+<fanart>https://dr-venture.com/709/Artwork/709Wizard-Fanart.jpg</fanart>
+<description>A light build with an easy-to-navigate interface - Debrid Only - Updated Oct 29-2025</description>
 </build>
 </builds>
-
