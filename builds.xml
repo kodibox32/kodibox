@@ -15,19 +15,20 @@
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox/kodibox.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 30 11 2025</description>
+<description>Updated 03 12 2025</description>
 </build>
 <build>
 <name>KodiBox Mirror</name>
 <version>1.0</version>
 <kodi>K21</kodi>
 <size>146MB</size>
-<url>https://www.dropbox.com/scl/fi/ktrkrpa4pflu0g2zggcuz/kodibox.zip?rlkey=jn169wb0a1y4ae9oqqa59dzti&st=uz6nlei8&dl=0</url>
+<url>https://www.dropbox.com/scl/fi/x8ot661n4sywc3xx71kjz/kodibox.zip?rlkey=w8k5cuaxdirpt376rumyrk654&st=33lgeo5u&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 30 11 2025</description>
 </build>
 </builds>
+
 
 
 
