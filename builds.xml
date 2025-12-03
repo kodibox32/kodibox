@@ -12,12 +12,13 @@
 <version>1.0</version>
 <kodi>K21</kodi>
 <size>202MB</size>
-<url>https://github.com/kodibox32/kodibox/releases/download/untagged-7186b867a231c8480075/kodibox.zip</url>
+<url>https://github.com/kodibox32/kodibox/releases/download/Kodibox/kodibox.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 30 11 2025</description>
 </build>
 </builds>
+
 
 
 
