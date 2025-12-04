@@ -1,6 +1,6 @@
 <builds>
 <build>
-<name>[COLOR dodgerblue]---- Kodibox Builds ----[/COLOR]</name>
+<name>[COLOR deepskyblue]---- Kodibox Builds ----[/COLOR]</name>
 <kodi>K21</kodi>
 <url>http://</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
@@ -28,3 +28,4 @@
 <description>Updated 04 12 2025</description>
 </build>
 </builds>
+
