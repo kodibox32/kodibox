@@ -8,7 +8,7 @@
 <description>by XxAttackerxX</description>
 </build>
 <build>
-<name>KodiBox 04 12 2025</name>
+<name>KodiBox</name>
 <version>1.0</version>
 <kodi>K21</kodi>
 <size>147MB</size>
@@ -18,7 +18,7 @@
 <description>Updated 04 12 2025</description>
 </build>
 <build>
-<name>KodiBox Mirror 04 12 2025</name>
+<name>KodiBox Mirror</name>
 <version>1.0</version>
 <kodi>K21</kodi>
 <size>147MB</size>
@@ -28,4 +28,5 @@
 <description>Updated 04 12 2025</description>
 </build>
 </builds>
+
 
