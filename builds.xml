@@ -11,7 +11,7 @@
 <name>KodiBox</name>
 <version>1.3</version>
 <kodi>K21</kodi>
-<size>106MB</size>
+<size>105MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox/kodibox.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
@@ -21,7 +21,7 @@
 <name>KodiBox Mirror</name>
 <version>1.3</version>
 <kodi>K21</kodi>
-<size>106MB</size>
+<size>105MB</size>
 <url>https://www.dropbox.com/scl/fi/x8ot661n4sywc3xx71kjz/kodibox.zip?rlkey=w8k5cuaxdirpt376rumyrk654&st=33lgeo5u&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
@@ -39,7 +39,7 @@
 <name>KodiBox</name>
 <version>1.3</version>
 <kodi>K21</kodi>
-<size>106MB</size>
+<size>105MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodiboxtouch/kodiboxtouch.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
@@ -49,13 +49,14 @@
 <name>KodiBox Mirror</name>
 <version>1.3</version>
 <kodi>K21</kodi>
-<size>106MB</size>
+<size>105MB</size>
 <url>https://www.dropbox.com/scl/fi/drinw2fb6zfxtjy3zb9ce/kodiboxtouch.zip?rlkey=93kxx5x5k0lnz3yhrurofx40t&st=sex5o6sz&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 09 01 2026</description>
 </build>
 </builds>
+
 
 
 
