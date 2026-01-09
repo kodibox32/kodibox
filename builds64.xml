@@ -11,23 +11,52 @@
 <name>KodiBox</name>
 <version>1.2</version>
 <kodi>K21</kodi>
-<size>137MB</size>
+<size>105MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64/kodibox64.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 06 01 2025</description>
+<description>Updated 09 01 2025</description>
 </build>
 <build>
 <name>KodiBox Mirror</name>
 <version>1.2</version>
 <kodi>K21</kodi>
-<size>137MB</size>
+<size>105MB</size>
 <url>https://www.dropbox.com/scl/fi/ncc09a5l8cex4ag8yz0ao/kodibox64.zip?rlkey=r5ebh8fygepo0glq68wq9647x&st=qd3g7qff&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 06 01 2025</description>
+<description>Updated 09 01 2025</description>
+</build>
+<build>
+<name>[COLOR deepskyblue]---- Kodibox 64 Touch Builds ----[/COLOR]</name>
+<kodi>K21</kodi>
+<url>http://</url>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
+<description>by XxAttackerxX</description>
+</build>
+<build>
+<name>KodiBox</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>105MB</size>
+<url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64/kodibox64.zip</url>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
+<description>Updated 09 01 2026</description>
+</build>
+<build>
+<name>KodiBox Mirror</name>
+<version>1.3</version>
+<kodi>K21</kodi>
+<size>105MB</size>
+<url>https://www.dropbox.com/scl/fi/8giv8yh9v02dr1nz8dcd2/kodiboxtouch64.zip?rlkey=a5iacfmo112c1kytrcwel4d8u&st=v1sg7u8f&dl=0</url>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
+<description>Updated 09 01 2026</description>
 </build>
 </builds>
+
 
 
 
