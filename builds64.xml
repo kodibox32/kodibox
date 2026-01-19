@@ -9,23 +9,23 @@
 </build>
 <build>
 <name>KodiBox 64</name>
-<version>1.4</version>
+<version>1.5</version>
 <kodi>K21</kodi>
-<size>114MB</size>
+<size>106MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64/kodibox64.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 15 01 2025</description>
+<description>Updated 19 01 2025</description>
 </build>
 <build>
 <name>KodiBox 64 Mirror</name>
-<version>1.4</version>
+<version>1.5</version>
 <kodi>K21</kodi>
-<size>114MB</size>
+<size>106MB</size>
 <url>https://www.dropbox.com/scl/fi/ncc09a5l8cex4ag8yz0ao/kodibox64.zip?rlkey=r5ebh8fygepo0glq68wq9647x&st=qd3g7qff&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 15 01 2025</description>
+<description>Updated 19 01 2025</description>
 </build>
 <build>
 <name>[COLOR deepskyblue]---- Kodibox 64 Touch Builds ----[/COLOR]</name>
@@ -37,25 +37,26 @@
 </build>
 <build>
 <name>KodiBox 64 Touch</name>
-<version>1.4</version>
+<version>1.5</version>
 <kodi>K21</kodi>
-<size>111MB</size>
+<size>109MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64touch/kodibox64touch.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 15 01 2026</description>
+<description>Updated 19 01 2026</description>
 </build>
 <build>
 <name>KodiBox 64 Touch Mirror</name>
-<version>1.4</version>
+<version>1.5</version>
 <kodi>K21</kodi>
-<size>111MB</size>
+<size>109MB</size>
 <url>https://www.dropbox.com/scl/fi/jntzvtg7ccsn1wvmzk5k5/kodibox64touch.zip?rlkey=zrz6ds3yjmt41oko04vmd0hgr&st=lctwoins&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 15 01 2026</description>
+<description>Updated 19 01 2026</description>
 </build>
 </builds>
+
 
 
 
