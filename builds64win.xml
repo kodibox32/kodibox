@@ -9,25 +9,26 @@
 </build>
 <build>
 <name>KodiBox 64 Windows</name>
-<version>1.8</version>
+<version>1.9</version>
 <kodi>K21</kodi>
-<size>82MB</size>
+<size>57MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64win/kodibox64win.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 31 01 2026</description>
+<description>Updated 08 02 2026</description>
 </build>
 <build>
 <name>KodiBox 64 Windows Mirror</name>
-<version>1.8</version>
+<version>1.9</version>
 <kodi>K21</kodi>
-<size>82MB</size>
+<size>57MB</size>
 <url>https://www.dropbox.com/scl/fi/xj6ya2nz9rd14hgdc2p43/kodibox64win.zip?rlkey=nr0prj18xe8yg254inmxa3g29&st=46p6q4p9&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 31 01 2026</description>
+<description>Updated 08 02 2026</description>
 </build>
 </builds>
+
 
 
 
