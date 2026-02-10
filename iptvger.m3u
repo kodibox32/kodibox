@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/RTL 4K UHD.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ RTL 4K UHD
-http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893916&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/PRO7SAT.1 4K UHD.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ PRO7SAT.1 4K UHD
-http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893915&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/SKY SPORT BUNDESLIGA 4K UH.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ SKY SPORT BUNDESLIGA 4K UHD
-http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893917&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/SKY SPORT 4K UHD.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ SKY SPORT 4K UHD
-http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893918&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/UHD1 BY ASTRA 4K UHD.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ UHD1 BY ASTRA 4K UHD
-http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893919&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DAS ERSTE.png" group-title="┃DE┃ ALLGEMEINES",┃DE┃ DAS ERSTE FHD
 http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=1025123&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF.png" group-title="┃DE┃ ALLGEMEINES",┃DE┃ ZDF FHD
@@ -3601,3 +3591,13 @@ http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=12808
 http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=1280816&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WETTER.COM TV.png" group-title="┃DE┃ MAGENTA HD",┃DE┃ WETTER.COM TV SD
 http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=1280831&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/RTL 4K UHD.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ RTL 4K UHD
+http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893916&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/PRO7SAT.1 4K UHD.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ PRO7SAT.1 4K UHD
+http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893915&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/SKY SPORT BUNDESLIGA 4K UH.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ SKY SPORT BUNDESLIGA 4K UHD
+http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893917&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/SKY SPORT 4K UHD.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ SKY SPORT 4K UHD
+http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893918&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/UHD1 BY ASTRA 4K UHD.png" group-title="┃DE┃ 4K UHD KANÄLE",┃DE┃ UHD1 BY ASTRA 4K UHD
+http://server.stream-one.fun:80/play/live.php?mac=A0:BB:3E:00:02:2D&stream=893919&extension=ts
