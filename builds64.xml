@@ -37,25 +37,26 @@
 </build>
 <build>
 <name>KodiBox 64 Touch</name>
-<version>1.9</version>
+<version>2.0</version>
 <kodi>K21</kodi>
-<size>61MB</size>
+<size>64MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64touch/kodibox64touch.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 08 02 2026</description>
+<description>Updated 11 02 2026</description>
 </build>
 <build>
 <name>KodiBox 64 Touch Mirror</name>
-<version>1.9</version>
+<version>2.0</version>
 <kodi>K21</kodi>
-<size>61MB</size>
+<size>64MB</size>
 <url>https://www.dropbox.com/scl/fi/jntzvtg7ccsn1wvmzk5k5/kodibox64touch.zip?rlkey=zrz6ds3yjmt41oko04vmd0hgr&st=lctwoins&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 08 02 2026</description>
+<description>Updated 11 02 2026</description>
 </build>
 </builds>
+
 
 
 
