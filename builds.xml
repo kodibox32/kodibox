@@ -39,7 +39,7 @@
 <name>KodiBox Touch</name>
 <version>2.0</version>
 <kodi>K21</kodi>
-<size>62MB</size>
+<size>65MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodiboxtouch/kodiboxtouch.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
@@ -49,13 +49,14 @@
 <name>KodiBox Touch Mirror</name>
 <version>2.0</version>
 <kodi>K21</kodi>
-<size>62MB</size>
+<size>65MB</size>
 <url>https://www.dropbox.com/scl/fi/drinw2fb6zfxtjy3zb9ce/kodiboxtouch.zip?rlkey=93kxx5x5k0lnz3yhrurofx40t&st=sex5o6sz&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 11 02 2026</description>
 </build>
 </builds>
+
 
 
 
