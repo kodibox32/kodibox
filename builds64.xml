@@ -3,7 +3,7 @@
 <name>[COLOR deepskyblue]---- Kodibox 64 Builds ----[/COLOR]</name>
 <kodi>K21</kodi>
 <url>http://</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>by XxAttackerxX</description>
 </build>
@@ -13,7 +13,7 @@
 <kodi>K21</kodi>
 <size>57MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64/kodibox64.zip</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 08 02 2026</description>
 </build>
@@ -23,7 +23,7 @@
 <kodi>K21</kodi>
 <size>57MB</size>
 <url>https://www.dropbox.com/scl/fi/ncc09a5l8cex4ag8yz0ao/kodibox64.zip?rlkey=r5ebh8fygepo0glq68wq9647x&st=qd3g7qff&dl=0</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 08 02 2026</description>
 </build>
@@ -31,7 +31,7 @@
 <name>[COLOR deepskyblue]---- Kodibox 64 Touch Builds ----[/COLOR]</name>
 <kodi>K21</kodi>
 <url>http://</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>by XxAttackerxX</description>
 </build>
@@ -41,7 +41,7 @@
 <kodi>K21</kodi>
 <size>65MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64touch/kodibox64touch.zip</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 11 02 2026</description>
 </build>
@@ -51,8 +51,9 @@
 <kodi>K21</kodi>
 <size>65MB</size>
 <url>https://www.dropbox.com/scl/fi/jntzvtg7ccsn1wvmzk5k5/kodibox64touch.zip?rlkey=zrz6ds3yjmt41oko04vmd0hgr&st=lctwoins&dl=0</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 11 02 2026</description>
 </build>
 </builds>
+
