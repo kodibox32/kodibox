@@ -3,7 +3,7 @@
 <name>[COLOR deepskyblue]---- Kodibox 64 Windows Builds ----[/COLOR]</name>
 <kodi>K21</kodi>
 <url>http://</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>by XxAttackerxX</description>
 </build>
@@ -13,7 +13,7 @@
 <kodi>K21</kodi>
 <size>77MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64win/kodibox64win.zip</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 11 02 2026</description>
 </build>
@@ -23,8 +23,9 @@
 <kodi>K21</kodi>
 <size>77MB</size>
 <url>https://www.dropbox.com/scl/fi/xj6ya2nz9rd14hgdc2p43/kodibox64win.zip?rlkey=nr0prj18xe8yg254inmxa3g29&st=46p6q4p9&dl=0</url>
-<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
 <description>Updated 11 02 2026</description>
 </build>
 </builds>
+
