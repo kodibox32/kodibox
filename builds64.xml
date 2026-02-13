@@ -11,7 +11,7 @@
 <name>KodiBox 64</name>
 <version>2.0</version>
 <kodi>K21</kodi>
-<size>46MB</size>
+<size>47MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64/kodibox64.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
@@ -21,7 +21,7 @@
 <name>KodiBox 64 Mirror</name>
 <version>2.0</version>
 <kodi>K21</kodi>
-<size>46MB</size>
+<size>47MB</size>
 <url>https://www.dropbox.com/scl/fi/ncc09a5l8cex4ag8yz0ao/kodibox64.zip?rlkey=r5ebh8fygepo0glq68wq9647x&st=qd3g7qff&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
@@ -56,6 +56,7 @@
 <description>Updated 12 02 2026</description>
 </build>
 </builds>
+
 
 
 
