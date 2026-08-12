@@ -11,20 +11,20 @@
 <name>KodiBox Test</name>
 <version>1.0</version>
 <kodi>K21</kodi>
-<size>34MB</size>
+<size>35MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox_Test/test.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 06 08 2026</description>
+<description>Updated 12 08 2026</description>
 </build>
 <build>
 <name>KodiBox Test Mirror</name>
 <version>1.0</version>
 <kodi>K21</kodi>
-<size>34MB</size>
+<size>35MB</size>
 <url>https://www.dropbox.com/scl/fi/bzptwj9eqi9arbkg2hot0/test.zip?rlkey=g9mk3vai3g8yhzg96t10v4uq2&st=f4krrdli&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>Updated 06 08 2026</description>
+<description>Updated 12 08 2026</description>
 </build>
 </builds>
