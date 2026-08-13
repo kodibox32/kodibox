@@ -1,6 +1,6 @@
 <builds>
 <build>
-<name>[COLOR deepskyblue]---- Kodibox 64 Windows Builds ----[/COLOR]</name>
+<name>[COLOR deepskyblue]---- Kodibox 64 Windows Installation ----[/COLOR]</name>
 <kodi>K21</kodi>
 <url>http://</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
