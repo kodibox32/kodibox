@@ -8,7 +8,7 @@
 <description>by XxAttackerxX</description>
 </build>
 <build>
-<name>KodiBox 64 Windows</name>
+<name>KodiBox 64 Windows Github Download</name>
 <version>3.3</version>
 <kodi>K21</kodi>
 <size>71MB</size>
@@ -18,7 +18,7 @@
 <description>BUILD 3.3 Updated 15 08 2026</description>
 </build>
 <build>
-<name>KodiBox 64 Windows Mirror</name>
+<name>KodiBox 64 Windows Dropbox Download</name>
 <version>3.3</version>
 <kodi>K21</kodi>
 <size>71MB</size>
