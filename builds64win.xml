@@ -9,22 +9,22 @@
 </build>
 <build>
 <name>KodiBox 64 Windows Github Download</name>
-<version>3.3</version>
+<version>3.4</version>
 <kodi>K21</kodi>
-<size>71MB</size>
+<size>73MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64win/kodibox64win.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>BUILD 3.3 Updated 15 08 2026</description>
+<description>BUILD 3.4 Updated 20 08 2026</description>
 </build>
 <build>
 <name>KodiBox 64 Windows Dropbox Download</name>
-<version>3.3</version>
+<version>3.4</version>
 <kodi>K21</kodi>
-<size>71MB</size>
+<size>73MB</size>
 <url>https://www.dropbox.com/scl/fi/xj6ya2nz9rd14hgdc2p43/kodibox64win.zip?rlkey=nr0prj18xe8yg254inmxa3g29&st=46p6q4p9&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-<description>BUILD 3.3 Updated 15 08 2026</description>
+<description>BUILD 3.4 Updated 20 08 2026</description>
 </build>
 </builds>
