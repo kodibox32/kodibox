@@ -1,7 +1,7 @@
 <builds>
 <build>
 <name>[COLOR deepskyblue]---- Kodibox Builds ----[/COLOR]</name>
-<kodi>K21</kodi>
+<kodi>K22</kodi>
 <url>http://</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
 <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
@@ -10,7 +10,7 @@
 <build>
 <name>KodiBox Test</name>
 <version>1.0</version>
-<kodi>K21</kodi>
+<kodi>K22</kodi>
 <size>56MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox_Test/test.zip</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
@@ -20,7 +20,7 @@
 <build>
 <name>KodiBox Test Mirror</name>
 <version>1.0</version>
-<kodi>K21</kodi>
+<kodi>K22</kodi>
 <size>56MB</size>
 <url>https://www.dropbox.com/scl/fi/bzptwj9eqi9arbkg2hot0/test.zip?rlkey=g9mk3vai3g8yhzg96t10v4uq2&st=f4krrdli&dl=0</url>
 <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
