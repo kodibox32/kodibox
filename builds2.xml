@@ -9,7 +9,7 @@
 </build>
 <build>
 <name>KodiBox Test</name>
-<version>1.0</version>
+<version>1.1</version>
 <kodi>K22</kodi>
 <size>56MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox_Test/test.zip</url>
@@ -19,7 +19,7 @@
 </build>
 <build>
 <name>KodiBox Test Mirror</name>
-<version>1.0</version>
+<version>1.1</version>
 <kodi>K22</kodi>
 <size>56MB</size>
 <url>https://www.dropbox.com/scl/fi/bzptwj9eqi9arbkg2hot0/test.zip?rlkey=g9mk3vai3g8yhzg96t10v4uq2&st=f4krrdli&dl=0</url>
