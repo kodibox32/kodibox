@@ -1,0 +1,12 @@
+<builds>
+<build>
+<name>KodiBox Test</name>
+<version>1.0</version>
+<kodi>K22</kodi>
+<size>58MB</size>
+<url>https://github.com/kodibox32/kodibox/releases/download/Kodibox_Test/test64win.zip</url>
+<icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.png</icon>
+<fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
+<description>Updated 22 10 2026</description>
+</build>
+</builds>
