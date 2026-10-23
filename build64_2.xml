@@ -1,6 +1,6 @@
 <builds>
 <build>
-<name>[COLOR deepskyblue]KodiBox Test[/COLOR]</name>
+<name>KodiBox Test</name>
 <version>1.0</version>
 <kodi>K22</kodi>
 <size>59MB</size>
