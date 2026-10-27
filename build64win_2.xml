@@ -1,7 +1,7 @@
 <builds>
 <build>
 <name>KodiBox Test</name>
-<version>1.0</version>
+<version>1.1</version>
 <kodi>K23</kodi>
 <size>57MB</size>
 <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox_Test/test64win.zip</url>
