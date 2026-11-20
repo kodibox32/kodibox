@@ -1,0 +1,97 @@
+#!/usr/bin/env python3
+# KODIBOX: generate a detached, online-verifiable SHA-256 manifest.
+# The private key is used locally and is never copied into output files.
+import argparse
+import base64
+import hashlib
+import json
+import os
+import subprocess
+import tempfile
+import zipfile
+import xml.etree.ElementTree as ET
+
+
+def main():
+    ap = argparse.ArgumentParser(description='Create online KODIBOX manifest + detached RSA signature.')
+    ap.add_argument('--build', required=True, help='Build ZIP to protect')
+    ap.add_argument('--wizard', required=True, help='Protected Wizard ZIP containing signed project license')
+    ap.add_argument('--key', required=True, help='Private RSA PEM key; keep offline and secret')
+    ap.add_argument('--out-dir', required=True, help='Output directory for addon_manifest.json and .sig')
+    ap.add_argument('--build-name', default='KODIBOX')
+    ap.add_argument('--build-version', default='')
+    args = ap.parse_args()
+
+    for path in (args.build, args.wizard, args.key):
+        if not os.path.isfile(path):
+            raise SystemExit('Datei nicht gefunden: ' + path)
+
+    manifest_name = 'plugin.program.kodibox/resources/lib/modules/kodibox_security/addon_manifest.json'
+    with zipfile.ZipFile(args.wizard) as wz:
+        old = json.loads(wz.read(manifest_name).decode('utf-8'))
+    addon_ids = sorted(set(old.get('addon_ids', [])))
+    if not addon_ids:
+        raise SystemExit('Keine Add-on-IDs im Wizard-Projektmanifest gefunden.')
+
+    hashes = {}
+    seen = set()
+    with zipfile.ZipFile(args.build) as bz:
+        for info in bz.infolist():
+            name = info.filename
+            if info.is_dir() or not name.startswith('addons/'):
+                continue
+            parts = name.split('/')
+            if len(parts) < 3 or parts[1] not in addon_ids:
+                continue
+            hashes[name] = hashlib.sha256(bz.read(name)).hexdigest()
+            seen.add(parts[1])
+        missing = sorted(set(addon_ids) - seen)
+        if missing:
+            raise SystemExit('Add-ons fehlen im Build: ' + ', '.join(missing))
+        for addon_id in addon_ids:
+            path = 'addons/{}/addon.xml'.format(addon_id)
+            try:
+                root = ET.fromstring(bz.read(path))
+            except Exception as exc:
+                raise SystemExit('Ungültige addon.xml {}: {}'.format(path, exc))
+            if root.attrib.get('id') != addon_id:
+                raise SystemExit('Add-on-ID stimmt nicht: ' + addon_id)
+
+    manifest = {
+        'schema': 1,
+        'project_id': 'KODIBOX',
+        'build_name': args.build_name,
+        'build_version': args.build_version,
+        'addon_ids': addon_ids,
+        'files': dict(sorted(hashes.items()))
+    }
+    raw = (json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + '\n').encode('utf-8')
+    os.makedirs(args.out_dir, exist_ok=True)
+    json_path = os.path.join(args.out_dir, 'addon_manifest.json')
+    sig_path = json_path + '.sig'
+    with open(json_path, 'wb') as f:
+        f.write(raw)
+    with tempfile.NamedTemporaryFile(delete=False) as mf, tempfile.NamedTemporaryFile(delete=False) as sf:
+        mf.write(raw)
+        mf.flush()
+        mname, sname = mf.name, sf.name
+    try:
+        subprocess.run(['openssl', 'dgst', '-sha256', '-sign', args.key, '-out', sname, mname], check=True)
+        with open(sname, 'rb') as f:
+            signature = base64.b64encode(f.read()) + b'\n'
+        with open(sig_path, 'wb') as f:
+            f.write(signature)
+    finally:
+        for p in (mname, sname):
+            try: os.unlink(p)
+            except OSError: pass
+
+    print('Online-Manifest erstellt:')
+    print('  JSON:', json_path)
+    print('  Signatur:', sig_path)
+    print('  Add-ons:', len(addon_ids))
+    print('  Dateien:', len(hashes))
+    print('Private Key wurde nicht ausgegeben oder in ein ZIP geschrieben.')
+
+if __name__ == '__main__':
+    main()
